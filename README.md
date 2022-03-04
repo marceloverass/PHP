@@ -1,3 +1,3 @@
 # PHP
  
-Php exercises from my university
+PHP exercises from my university.
